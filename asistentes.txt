@@ -1,22 +1,11 @@
 JC Mata S
 Jonnathan
-<<<<<<< HEAD
-Saul
 Ruben Maldonado
-=======
 Saul Dennis
-Ruben
-<<<<<<< HEAD
 Luis Garcia
-=======
->>>>>>> bfe124b45dd1e49a3cefc734a1212c2333dd53b0
-Luis
->>>>>>> refs/remotes/origin/master
 Patricia
 Eduardo
-<<<<<<< HEAD
 Bianca Salomon
-=======
-Bianca
 Oscar L
->>>>>>> 66fcf8275ec7ff33bec97f221424e2651c4b4c79
+
+PEPE PECAS PICA PAPAS CON UN PICO
