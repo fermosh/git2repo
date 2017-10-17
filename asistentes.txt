@@ -8,7 +8,7 @@ Saul Dennis
 Ruben
 >>>>>>> bfe124b45dd1e49a3cefc734a1212c2333dd53b0
 Luis
-Patricia Gutierrez
+Patricia Gutierrez C
 Eduardo
 <<<<<<< HEAD
 Bianca Salomon
